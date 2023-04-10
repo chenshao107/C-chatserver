@@ -1,0 +1,8 @@
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/server/CMakeFiles/ChatServer.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/server/CMakeFiles/edit_cache.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/client/CMakeFiles/ChatClient.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+/home/chenshao/桌面/chatServer/src/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
